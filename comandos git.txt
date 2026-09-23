@@ -5,3 +5,22 @@ git commit -m " nombre de versión"
 git push
 git pull
 git atatus
+
+
+git init: "es para inicializar un repositorio local".
+git Branch -M main "sirve para renombrar la rama master por main".
+git add  . "Este comando sirve para agregar todos los archivos".
+git commit -m "firt commit" ( Este comando sirve para nombrar la version de subida).
+git push "sube los cambios de repositorio en la web o nube"
+git pull "jala los cambios del reporsitorio web".
+git status "comprueba si hay cambios o el estado de los archivos".
+
+
+Configuración del usuario local git
+git config --local user.mane "su nombre"
+git config --local usar.email " su correo electrónico registrado en githud"
+ (recuerden abrir el "administrador de credenciales" seleccionar "credenciales de windows" y eliminar cualquier credencial relacionada con git o githud).
+
+
+pegar->shift+insert
+pegar->ctrl+v(no funciona)
